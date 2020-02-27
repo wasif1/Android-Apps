@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="no_internet">Check your network connectivity</string>
+    <string name="ny_times">NY Times Most Popular</string>
+    <string name="uri">URI :</string>
+    <string name="url">URL :</string>
+    <string name="id">ID :</string>
+    <string name="asset_id">Asset ID :</string>
+    <string name="source">Source :</string>
+    <string name="published_date">Published Date :</string>
+    <string name="updated">Updated : </string>
+    <string name="section">Section :</string>
+    <string name="subsection">Sub Section :</string>
+    <string name="nytdsection">NYTD Section :</string>
+    <string name="adx_keywords">ADX Keywords :</string>
+    <string name="column">Column :</string>
+    <string name="byline">By Line :</string>
+    <string name="type">Type :</string>
+    <string name="title">Title :</string>
+    <string name="abstract_">Abstract : </string>
+    <string name="des_facet">DES Facet :</string>
+    <string name="org_facet">ORG Facet :</string>
+    <string name="per_facet">PER Facet :</string>
+    <string name="geo_facet">GEO Facet :</string>
+    <string name="media">Media</string>
+    <string name="no_data">N/A</string>
+</resources>
