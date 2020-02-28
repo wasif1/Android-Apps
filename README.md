@@ -1,4 +1,4 @@
-# Android-Apps
+# NYTIMES
 
 You just need to install the APP, all the params are set already. If you wanna change the section and period values then 
 you have to go to the UTILS Package Constants class.
